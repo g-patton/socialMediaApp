@@ -40,3 +40,4 @@ UserSchema.methods.comparePassword = function comparePassword(
 };
 
 module.exports = mongoose.model("User", UserSchema);
+//mongoose takes care of "user" name collection
