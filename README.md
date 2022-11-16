@@ -1,3 +1,5 @@
+Will be a social media app clone
+
 # Install
 
 `npm install`
